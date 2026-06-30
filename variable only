@@ -1,0 +1,8 @@
+x = 5
+y = "John"
+print(x)
+print(y)
+codingal = "codingal"
+print(codingal)
+name = "Safrin"
+print("\nHello", name, "\nWelcome to codingal")
